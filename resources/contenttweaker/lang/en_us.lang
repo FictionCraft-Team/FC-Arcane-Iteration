@@ -1,0 +1,9 @@
+#material
+base.material.fiery=Fiery
+base.material.shadow=Shadow
+base.material.natura=Natura
+base.material.zephyr=Zephyr
+base.material.frost=Frost
+
+#parts
+contenttweaker.part.oil_part=%s Oil

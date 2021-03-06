@@ -61,4 +61,3 @@ minecraft:mutated_mesa
 minecraft:mutated_mesa_rock
 minecraft:mutated_mesa_clear_rock
 iceandfire:glacier
-wizardry:wizardry_underworld

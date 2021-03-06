@@ -1,3 +1,8 @@
 {
-  "materialMappings": {}
+  "materialMappings": {
+    "natura_oil_part": 1,
+    "frost_oil_part": 3,
+    "shadow_oil_part": 0,
+    "zephyr_oil_part": 2
+  }
 }
